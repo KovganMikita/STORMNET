@@ -16,4 +16,4 @@ public class HW_1 {
         } else System.out.println("Введеное число не является семеркой");
     }
 }
-//
+
